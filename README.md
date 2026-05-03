@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning software automation testing
   
-- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1J1d3znRc5NxxJ-YA4X1BEaJfb4i9y75-/view?usp=drivesdk)
+- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1nXG3w2F8nz4qyCY5Tsrd0XnznyYoC8o8/view?usp=drivesdk))
 
 - 💻 All of my projects are available on [GitHub](https://github.com/Kiran-S-Official/)
 
